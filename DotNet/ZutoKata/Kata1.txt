@@ -1,0 +1,3 @@
+#1 - Please fix the two integration tests that fail
+#2 - Please extend the SentResponse such that the client (our tests) can tell the difference between the email service being broken or our request being invalid.
+#3 - Please add the ability to send a Memo using the Messenger class
